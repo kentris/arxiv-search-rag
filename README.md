@@ -1,2 +1,2 @@
-# kentris.github.io.backend
-The api endpoints to be served up by kentris.github.io
+# arxiv-search-rag
+The api endpoints to be served up by kentris.github.io for arxiv-search-rag
